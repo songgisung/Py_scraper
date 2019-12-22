@@ -1,0 +1,4 @@
+storage:
+  imagePath: "/var/images"
+  videoPath: "/var/video"
+  titleTXTPath: "/var/title"
